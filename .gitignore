@@ -1,0 +1,23 @@
+
+# Dataset
+data/*
+!data/.gitkeep
+
+# Trained models
+models/*
+!models/.gitkeep
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment
+venv/
+.env
+
+# System files
+.DS_Store
+Thumbs.db
